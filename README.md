@@ -6,7 +6,7 @@ Vehicle Reidentification using YOLOv8 and feature-based similarity
 
 Check ![demo video](./veh_reid_video.mov).
 
-> In this project, we present a comprehensive vehicle re-identification system designed to enhance accuracy and robustness in surveillance footage analysis. Leveraging state-of-the-art object detection capabilities with YOLOv8, our system first identifies vehicles within frames. Subsequently, we employ a diverse array of feature extraction techniques that users can select, including Histogram of Oriented Gradients (HOG), color histograms, deep neural network (DNN) features via ResNet and OSNet, and Scale-Invariant Feature Transform (SIFT) descriptors. This diversity allows us to capture a broad spectrum of vehicle characteristics. Additionally, the system integrates Automatic Number Plate Recognition (ANPR) using PaddleOCR to enhance identification precision by verifying vehicle license plates. These features are then utilized for similarity comparison across frames, facilitating the accurate reidentification of vehicles over time. Through rigorous experimentation, we validate the efficacy of our approach, demonstrating its capability to effectively handle various challenges encountered in real-world surveillance scenarios, such as changes in scale, viewpoint, and environmental conditions. Our findings underscore the importance of integrating multiple feature extraction techniques for robust vehicle re-identification, ultimately contributing to advancements in video surveillance systems.
+> In this project, I present a comprehensive vehicle re-identification system designed to enhance accuracy and robustness in surveillance footage analysis. Leveraging state-of-the-art object detection capabilities with YOLOv8, my system first identifies vehicles within frames. Subsequently, I employ a diverse array of feature extraction techniques that users can select, including Histogram of Oriented Gradients (HOG), color histograms, deep neural network (DNN) features via ResNet and OSNet, and Scale-Invariant Feature Transform (SIFT) descriptors. This diversity allows us to capture a broad spectrum of vehicle characteristics. Additionally, the system integrates Automatic Number Plate Recognition (ANPR) using PaddleOCR to enhance identification precision by verifying vehicle license plates. These features are then utilized for similarity comparison across frames, facilitating the accurate reidentification of vehicles over time. Through rigorous experimentation, I validated the efficacy of my approach, demonstrating its capability to effectively handle various challenges encountered in real-world surveillance scenarios, such as changes in scale, viewpoint, and environmental conditions. My findings underscore the importance of integrating multiple feature extraction techniques for robust vehicle re-identification, ultimately contributing to advancements in video surveillance systems.
 
 # Methods
 
@@ -76,6 +76,6 @@ Tested on Macbook Pro M3 8GiB
 
 # Contributors
 
-| Contributor 1 | Contributor 2 |
-| ------------- | ------------- |
-| [Harshit Kumar](https://github.com/kHarshit) | [Khushi Neema](https://github.com/Khushi-12)
+| Contributor 1 |
+| ------------- |
+| [Priyanshu Kumar](https://github.com/priyanshu-kr) |
